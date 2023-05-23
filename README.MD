@@ -2,7 +2,7 @@
 
 # Welcome to CS115 GitHub Repo. Here's all the information to learn Git and CS115
 
-# Prerequisite
+# Prerequisites
 - [ ] Create Github account [here](https://github.com/join)
 - [ ] [Learn Git](https://classroom.github.com/a/LIiChK_j)<br />
 
